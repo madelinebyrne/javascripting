@@ -1,3 +1,7 @@
+var pizza = "pizza is alright";
+console.log(pizza.replace('alright','wonderful'));
+
+
  // ## The challenge:
 
  //  Create a file named revising-strings.js.

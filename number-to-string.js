@@ -1,4 +1,5 @@
- 
+var n =128;
+console.log(n.toString()); 
  /*## The challenge:
 
   Create a file named number-to-string.js.

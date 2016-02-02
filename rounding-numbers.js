@@ -1,3 +1,6 @@
+var roundUp =1.5;
+var roundedUp=Math.round(roundUp);
+console.log(roundedUp);
 /*
  ## The challenge:
   Create a file named rounding-numbers.js.
